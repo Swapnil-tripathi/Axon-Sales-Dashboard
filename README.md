@@ -8,8 +8,8 @@ This project is an interactive Sales Analytics Dashboard built using Power BI to
 
 The dashboard enables business users to monitor KPIs, identify top-performing products and customers, and filter insights by category and year.
 
-**Dashboard Preview**
-**##Sales Dashboard**
+## Dashboard Preview
+**Sales Dashboard**
 
 <img width="1265" height="677" alt="image" src="https://github.com/user-attachments/assets/87b03954-4f82-414c-a7e8-fb6bfb29b6b6" />
 
@@ -76,7 +76,9 @@ Performed using Power Query:
 - Weekend sales contribute a smaller share of overall revenue.
 - A small group of products contributes a significant portion of total profit. 
 
-**Author**
-**##Swapnil Tripathi**
-Data Analyst | SQL | Power BI | Python | Excel
+## Author
+
+**Swapnil Tripathi**
+
+*Data Analyst | SQL | Power BI | Python | Excel*
 
