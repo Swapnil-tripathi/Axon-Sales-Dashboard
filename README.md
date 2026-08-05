@@ -8,30 +8,30 @@ This project is an interactive Sales Analytics Dashboard built using Power BI to
 
 The dashboard enables business users to monitor KPIs, identify top-performing products and customers, and filter insights by category and year.
 
-**Dashboard Preview
-Sales Dashboard**
+**##Dashboard Preview
+##Sales Dashboard**
 
 <img width="1265" height="677" alt="image" src="https://github.com/user-attachments/assets/87b03954-4f82-414c-a7e8-fb6bfb29b6b6" />
 
 **Country-wise Dashboard**
 <img width="1271" height="684" alt="image" src="https://github.com/user-attachments/assets/1e9a971d-2bb3-44cb-b824-dcc655833988" />
 
-**Features:**
-•	Total Sales KPI 
-•	Total Orders 
-•	Total Profit 
-•	Weekend Sales 
-•	Weekend Orders 
-•	Payment Received 
-•	Top 10 Employees by Sales 
-•	Top 10 Products by Profit 
-•	Profit by Country 
-•	Profit by Territory 
-•	Quantity Sold by Month 
-•	Top Customers 
-•	Interactive Slicers 
-    •	Year 
-    •	Product Category 
+##Features:
+- Total Sales KPI 
+- Total Orders 
+- Total Profit 
+- Weekend Sales 
+- Weekend Orders 
+- Payment Received 
+- Top 10 Employees by Sales 
+- Top 10 Products by Profit 
+- Profit by Country 
+- Profit by Territory 
+- Quantity Sold by Month 
+- Top Customers 
+- Interactive Slicers 
+    - Year 
+  - Product Category 
 
 **Tools Used:**
 •Power BI Desktop
